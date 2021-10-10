@@ -19,6 +19,8 @@ Filmmaker and [Avid Storyteller](https://www.youtube.com/watch?v=fFxf21zp9Vo).
 
 [Web Developer](https://www.youtube.com/watch?v=w8IFclyYFTg) at Duke Office of Information Technology.
 
+Reach me at niam.kothari@duke.edu.
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
