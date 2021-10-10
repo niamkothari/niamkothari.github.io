@@ -8,7 +8,7 @@ Computer Science and Philosophy Student at Duke University.
 
 Dancer on [Duke Street Medicine](https://www.youtube.com/watch?v=bVDJ2HIqavk), Duke's street-style dance team.
 
-[Filmmaker and Avid Storyteller](https://www.youtube.com/watch?v=fFxf21zp9Vo).
+Filmmaker and [Avid Storyteller](https://www.youtube.com/watch?v=fFxf21zp9Vo).
 
 ### Previously
 [Program Manager](https://codeplus.duke.edu/node/6675) at Duke Office of Information Technology.
