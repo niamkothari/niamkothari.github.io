@@ -1,6 +1,22 @@
 ## Welcome to Niam Kothari's Website!
 
-You can use the [editor on GitHub](https://github.com/niamkothari/niamkothari.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+For professional work, see my [LinkedIn](https://www.linkedin.com/in/niamkothari/) and resume.
+
+For creative work, see my [Instagram](https://www.instagram.com/niamkothari/?hl=en).
+
+Computer Science and Philosophy Student at Duke University.
+
+Dancer on [Duke Street Medicine](https://www.youtube.com/watch?v=bVDJ2HIqavk), Duke's street-style dance team.
+
+[Filmmaker and Avid Storyteller](https://www.youtube.com/watch?v=fFxf21zp9Vo).
+
+### Previously
+[Program Manager](https://codeplus.duke.edu/node/6675) at Duke Office of Information Technology.
+
+[Software Engineer Intern](https://findsurgicalsciences.com/) at FIND Surgical Sciences.
+
+[Web Developer](https://www.youtube.com/watch?v=w8IFclyYFTg) at Duke Office of Information Technology.
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
