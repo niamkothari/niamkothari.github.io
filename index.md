@@ -1,5 +1,7 @@
 ## Welcome to Niam Kothari's Website!
 
+![West Village Sunset](src/WestVillageSunset.jpg)
+
 For professional work, see my [LinkedIn](https://www.linkedin.com/in/niamkothari/) and resume.
 
 For creative work, see my [Instagram](https://www.instagram.com/niamkothari/?hl=en).
