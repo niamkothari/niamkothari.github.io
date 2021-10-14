@@ -1,12 +1,13 @@
 ## Welcome to Niam Kothari's Website!
 
-![West Village Sunset](src/WestVillageSunset.jpg)
-
-For professional work, see my [LinkedIn](https://www.linkedin.com/in/niamkothari/) and resume.
-
-For creative work, see my [Instagram](https://www.instagram.com/niamkothari/?hl=en).
-
 Computer Science and Philosophy Student at Duke University.
+
+### Mission
+My mission is to collect experiences and give them back to others. As a developer, this manifests in the applications I've built and the projects I hope to work on, and as a creator this manifests in the stories I tell through film and dance. 
+
+As a prospective software engineer, I'm always on the search for opportunities to grow my skillset and immerse myself in the industry. I'm excited to bring a detail-oriented approach, time-tested ability to learn quickly, and relentless work ethic to any work environment I find myself in.
+
+For professional work, see my [LinkedIn](https://www.linkedin.com/in/niamkothari/).
 
 Dancer on [Duke Street Medicine](https://www.youtube.com/watch?v=bVDJ2HIqavk), Duke's street-style dance team.
 
@@ -20,38 +21,3 @@ Filmmaker and [Avid Storyteller](https://www.youtube.com/watch?v=fFxf21zp9Vo).
 [Web Developer](https://www.youtube.com/watch?v=w8IFclyYFTg) at Duke Office of Information Technology.
 
 Reach me at niam.kothari@duke.edu.
-
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/niamkothari/niamkothari.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
